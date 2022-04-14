@@ -4,7 +4,7 @@ __|| *This repository and the code therein may be freely copied and distributed 
 Various different techniques and examples for generating random numbers from specific distriubtions on MATLAB.
 
 ## Contents:
-- `Acceptance Rejection Method`.
+- `Acceptance Rejection method`.
 - `Box-Muller method`.
 
 ## Note:
