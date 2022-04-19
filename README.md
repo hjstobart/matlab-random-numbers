@@ -1,5 +1,3 @@
-__|| *This repository and the code therein may be freely copied and distributed as necessary.* ||__
-
 ## Overview:
 Various different techniques and examples for generating random numbers from specific distriubtions on MATLAB.
 
@@ -17,5 +15,9 @@ The scripts may not be perfect, but I hope these give you some insight.
 H ✌️
 
 ---
+_This repository and the code therein may be freely copied and distributed as necessary._
+
 #### End User Terms of Service:
+
 Where appropriate, this repository fall under the GitHub Terms of Service. For more information, please see here: https://docs.github.com/en/site-policy/github-terms/github-terms-of-service
+
