@@ -4,6 +4,7 @@ Various different techniques and examples for generating random numbers from spe
 ## Contents:
 - `Acceptance Rejection method`.
 - `Box-Muller method`.
+- `Linear Congruential Generator`.
 
 ## Note:
 Dear reader,
