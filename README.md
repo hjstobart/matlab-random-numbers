@@ -3,9 +3,10 @@ Various different techniques and examples for generating random numbers from spe
 
 ## Contents:
 - `Acceptance Rejection method`.
-- `Box-Muller method`.
-- `Linear Congruential Generator`.
+- `Box-Muller method`. _(Normally distributed)_
 - `Fibonacci method`.
+- `Marsaglia method`. _(Normally distributed)_
+- `Linear Congruential Generator`.
 
 ## Note:
 Dear reader,
